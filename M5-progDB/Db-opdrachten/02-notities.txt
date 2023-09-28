@@ -1,1 +1,11 @@
 #DB OPDRACHTEN
+
+Adres: 
+
+Straat: Claude Debussylaan
+Nummer: 34
+Postcode: 1082 MD Amsterdam
+
+
+Waarom: Ik denk dat we dit doen omdat we dan onze gegevens beter en netter kunnen opslaan in onze database
+
